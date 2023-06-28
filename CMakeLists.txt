@@ -6,7 +6,7 @@ set(PICO_BOARD pico_w)
 # note: this must happen before project()
 include(pico_sdk_import.cmake)
 
-project(my_project)
+project(Hello_World_Blink)
 
 # initialize the Raspberry Pi Pico SDK
 pico_sdk_init()
