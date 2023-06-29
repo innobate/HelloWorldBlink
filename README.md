@@ -10,3 +10,6 @@ When opening this project via Visual Studio Code, make sure you scan for a kit w
 ### Debugging in VS Code
 When debugging make sure you select the Cortex Debug option.
 
+
+Visit the [Hello World Blink Wiki](https://github.com/innobate/HelloWorldBlink/wiki/Home)
+
